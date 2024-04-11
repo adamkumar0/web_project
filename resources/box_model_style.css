@@ -1,0 +1,60 @@
+/*
+  white: #FFFFFF
+  dark blue: #064673
+  purple: #5a0790
+*/
+
+h1, h2, h3 {
+  color: #064673;
+}
+
+h1 {
+  text-align: center;
+}
+
+th, td {
+  border: #5a0790 solid 3px;
+  padding: 8px;
+}
+
+table {
+  border-style: groove;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #064673;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5a0790;
+}
+
+.pcolor {
+  color: #FFFFFF;
+  background-color: #064673;
+  width: 300px;
+  padding: 12px;
+  border-collapse: collapse;
+  width: 250px;
+  color: #5a0790;
+  margin: auto;
+}
+
+.image_class {
+  background-color: #064673;
+  width: 646px;
+  padding: 20px;
+  border-style: dotted;
+  width: 400px;
+  color: #5a0790;
+  margin: auto;
+}
+
+body {
+  padding: 20px;
+
+}
